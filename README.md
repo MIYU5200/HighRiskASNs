@@ -41,10 +41,16 @@ High-risk IP and ASN lists based on bot traffic ratio and abuse score.
 
 Sorted by bot traffic ratio (descending).
 
+## Data Source
+
+- Bot traffic ratio: [Cloudflare Radar](https://radar.cloudflare.com/)
+
 ## Update
 
 Updated irregularly.
 
 ## License
 
-This data is licensed under [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This data is licensed under [CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/).
+
+Bot traffic data sourced from Cloudflare Radar under CC BY-NC 4.0.
